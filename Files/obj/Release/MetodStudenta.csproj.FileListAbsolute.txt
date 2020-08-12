@@ -1,0 +1,10 @@
+E:\Эээээксперементы\MetodStudenta\bin\Release\MetodStudenta.exe.config
+E:\Эээээксперементы\MetodStudenta\bin\Release\MetodStudenta.exe
+E:\Эээээксперементы\MetodStudenta\bin\Release\MetodStudenta.pdb
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.csprojAssemblyReference.cache
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.Form1.resources
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.Properties.Resources.resources
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.csproj.GenerateResource.cache
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.csproj.CoreCompileInputs.cache
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.exe
+E:\Эээээксперементы\MetodStudenta\obj\Release\MetodStudenta.pdb
