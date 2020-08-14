@@ -8,3 +8,13 @@ E:\Эээээксперементы\MetodStudenta\obj\Debug\MetodStudenta.csproj
 E:\Эээээксперементы\MetodStudenta\obj\Debug\MetodStudenta.csproj.CoreCompileInputs.cache
 E:\Эээээксперементы\MetodStudenta\obj\Debug\MetodStudenta.exe
 E:\Эээээксперементы\MetodStudenta\obj\Debug\MetodStudenta.pdb
+E:\Эээээксперементы\MetodStudenta\Files\bin\Debug\MetodStudenta.exe.config
+E:\Эээээксперементы\MetodStudenta\Files\bin\Debug\MetodStudenta.exe
+E:\Эээээксперементы\MetodStudenta\Files\bin\Debug\MetodStudenta.pdb
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.csprojAssemblyReference.cache
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.Form1.resources
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.Properties.Resources.resources
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.csproj.GenerateResource.cache
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.csproj.CoreCompileInputs.cache
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.exe
+E:\Эээээксперементы\MetodStudenta\Files\obj\Debug\MetodStudenta.pdb
